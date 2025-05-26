@@ -1,44 +1,49 @@
-# Expense_Tracker
-💰 Expense Tracker (CLI-based) A simple command-line Expense Tracker built using Python. This application allows users to record daily expenses, categorize them, and view insightful statistics based on past spending — all stored in a plain text file.
+# 🧾 Expense Tracker (CLI-Based)
 
-🔧 Features
-📌 Add and store expenses with:
+A simple **command-line Python application** to track your daily expenses, filter by categories, analyze your spending habits, and calculate insightful stats like total, average, max, and min spending.
 
-Date
+---
 
-Category (e.g. Food, Transport)
+## 🔧 Features
 
-Amount (in Rs.)
+- 📥 **Add expenses** (with date, category, amount, and description)
+- 📂 **Store data** in a local `.txt` file
+- 🔍 **Filter expenses** by category
+- 📊 **View overall stats**:
+  - Total money spent
+  - Average expense
+  - Max & Min expense
+- 📅 **(Optional)** Filter by month or export filtered results to a file
 
-Description
+---
 
-🔍 Filter expenses by category
+## 📁 Data Format (Text File)
 
-📅 View monthly spending (coming soon)
+Each expense is stored in this format inside `User_Data.txt`:
 
-📊 Display:
+🛠️ Tech Used
+Python (Pure CLI)
 
-Total money spent
+File I/O (Text-based)
 
-Average spending
+Built-in Python data structures: lists, dictionaries, tuples
 
-Max & Min expenses
+No external libraries required
 
-💾 Data is stored in a simple .txt file for easy access
+🧠 What I Learned
+How to store and read structured data in text files
 
-🧠 Beginner-friendly code using lists, dictionaries, conditionals, loops, and file handling
+Practical use of lists, string operations, conditionals, and loops
 
+Real-world application of basic Python skills
 
+Structuring a project for future upgrades (like GUI or database)
 
-🚀 Future Improvements
-GUI interface using Tkinter or PyQt
+📌 Future Plans
+Add GUI using Tkinter or PyQt
 
-Monthly and yearly analysis
+Use SQLite for storing data
 
-Export data to CSV
+Graph spending using matplotlib
 
-Password-protected user access
-
-
-
-Clean and modular code structuring
+Add user login/password protection
