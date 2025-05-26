@@ -28,12 +28,8 @@ Max & Min expenses
 
 🧠 Beginner-friendly code using lists, dictionaries, conditionals, loops, and file handling
 
-📂 Sample Data Format
-yaml
-Copy
-Edit
-2025-05-26 | Food | Rs. 500 | Subway sandwich
-2025-05-27 | Transport | Rs. 200 | Uber ride
+
+
 🚀 Future Improvements
 GUI interface using Tkinter or PyQt
 
@@ -43,13 +39,6 @@ Export data to CSV
 
 Password-protected user access
 
-🎓 Skills Practiced
-File handling (open(), read(), write())
 
-String manipulation
-
-Data filtering and aggregation
-
-Basic statistics in Python
 
 Clean and modular code structuring
