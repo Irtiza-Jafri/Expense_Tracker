@@ -1,0 +1,10 @@
+2025-05-20 | Food | Rs. 500 | McDonald's lunch
+2025-05-21 | Transport | Rs. 200 | Uber to college
+2025-05-21 | Food | Rs. 350 | Pizza night
+2025-05-22 | Shopping | Rs. 1200 | Clothes from Zara
+2025-05-22 | Food | Rs. 150 | Snacks
+2025-05-23 | Transport | Rs. 100 | Bus fare
+2025-05-23 | Education | Rs. 800 | Python course
+2025-05-24 | Food | Rs. 400 | Restaurant dinner
+2025-05-24 | Miscellaneous | Rs. 250 | Birthday gift
+2025-05-25 | Education | Rs. 1200 | Online books
